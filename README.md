@@ -26,3 +26,9 @@ YOLO (You Only Look Once) for object detection.
 Python programming language.
 
 OpenCV library for image and video processing.
+
+**Output **
+
+![Uploading output1.png…]()
+<img width="475" alt="output3" src="https://github.com/user-attachments/assets/74dfffef-8a1b-45b0-8ed6-ce6ae59fd132">
+
