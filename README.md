@@ -28,7 +28,8 @@ Python programming language.
 OpenCV library for image and video processing.
 
 **Output **
+<img width="479" alt="output1" src="https://github.com/user-attachments/assets/b175b428-88ca-4592-9718-7b9308285fc9">
 
-![Uploading output1.png…]()
+
 <img width="475" alt="output3" src="https://github.com/user-attachments/assets/74dfffef-8a1b-45b0-8ed6-ce6ae59fd132">
 
